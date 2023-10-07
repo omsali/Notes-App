@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.addnote{
+  font-size: larger;
+  padding: 10px 15px;
+  background-color: blue;
+  border: 1px solid blue;
+  border-radius: 50%;
+  color: white;
+}
